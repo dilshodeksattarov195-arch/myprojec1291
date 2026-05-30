@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorderify",
+        "uuid": 908864,
+        "checksum": "emohe5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
